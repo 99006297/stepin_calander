@@ -73,3 +73,12 @@ In all the domains it can be used. As the project is portable and user-friendly,
 HOW
 ------
 System design is a solution for “HOW TO” approach to the creation of a new system. It translates system requirements into ways by which they can be made operational. It is a translational from a user oriented document to a document oriented programmers. For that, it provides the understanding and procedural details necessary for the implementation. Here UML diagrams are used to supplement the working of the new system. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
+
+Folder Structure
+---------------
+Folder|	Description
+------|------------
+1_Requirements	Documents detailing requirements and research
+2_Design	Documents specifying design details
+3_Implementation	All code and documentation
+4_Test_plan	Documents with test plans and procedures
